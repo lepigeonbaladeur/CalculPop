@@ -1,4 +1,4 @@
-# CalcuPop
+# CalculPop
 # Politique de Confidentialité
 
 **Dernière mise à jour : 31 juillet 2025**
@@ -7,7 +7,7 @@
 
 ## 1. Collecte de Données
 
-L'extension **CalcuPop** ne collecte, ne stocke ni ne transmet aucune donnée personnelle ou d'utilisation. Toutes les opérations sont effectuées localement dans votre navigateur.
+L'extension **CalculPop** ne collecte, ne stocke ni ne transmet aucune donnée personnelle ou d'utilisation. Toutes les opérations sont effectuées localement dans votre navigateur.
 
 ---
 
@@ -19,7 +19,7 @@ L'extension utilise le stockage local de votre navigateur (`localStorage`) uniqu
 
 ## 3. Cookies
 
-CalcuPop n'utilise aucun cookie ni aucune technologie de suivi.
+CalculPop n'utilise aucun cookie ni aucune technologie de suivi.
 
 ---
 
