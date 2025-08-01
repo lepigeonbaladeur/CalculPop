@@ -1,4 +1,4 @@
-# CalculPop
+# CalcuPop
 # Politique de Confidentialité
 
 **Dernière mise à jour : 31 juillet 2025**
